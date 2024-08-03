@@ -12,19 +12,6 @@
 
 ---
 
-## 1. Consideraciones generales
-
-* Este proyecto lo resolvemos de manera **individual**.
-* El rango de tiempo estimado para completar el proyecto es de 2 a 5 Sprints.
-* Enfócate en aprender y no solamente en "completar" los tutoriales o ejercicios.
-
-## 2. Preámbulo
-
-![Workshop](https://images.unsplash.com/photo-1426927308491-6380b6a9936f)
-
-_Credito: Foto de [Barn Images](https://unsplash.com/@barnimages)_
-_en [Unsplash](https://unsplash.com/photos/assorted-handheld-tools-in-tool-rack-t5YUoHW6zRo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_
-
 Los comandos DDL (Data Definition Language) en SQL son fundamentales para la creación,
 modificación y eliminación de objetos de base de datos. Estos comandos permiten
 definir la estructura y características de las tablas, índices, vistas y otros
