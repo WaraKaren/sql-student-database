@@ -13,7 +13,7 @@ Para la practica usamos [Gitpod](https://gitpod.io/).
 ```md
 # Tutorial 1
 
-## Para cconectarnos a sql
+## para conectarte a la base de datos y realizar operaciones SQL (PostgreSQL)
    `psql --username=freecodecamp --dbname=psql`
 
 ## observamos la base de datos con:
