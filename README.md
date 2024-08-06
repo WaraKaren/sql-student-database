@@ -1,39 +1,5 @@
 # Student Database
 
-## Índice
-
-* [1. Consideraciones generales](#1-consideraciones-generales)
-* [2. Preámbulo](#2-preámbulo)
-* [3. Resumen del proyecto](#3-resumen-del-proyecto)
-* [4. Configuración del Ambiente de Desarrollo](#4-configuracion-del-ambiente-de-desarrollo)
-* [5. Entregables](#5-entregables)
-* [6. Consideraciones para pedir tu Project Feedback](#6-consideraciones-para-pedir-tu-project-feedback)
-* [7. Objetivos de aprendizaje](#7-objetivos-de-aprendizaje)
-
----
-
-Los comandos DDL (Data Definition Language) en SQL son fundamentales para la creación,
-modificación y eliminación de objetos de base de datos. Estos comandos permiten
-definir la estructura y características de las tablas, índices, vistas y otros
-elementos esenciales en el diseño de una base de datos.
-
-## 3. Resumen del proyecto
-
-En este proyecto seguirás dos tutoriales de freeCodeCamp para aprender
-los comandos DDL (Data Definition Language) en SQL.
-
-### [Learn SQL by Building a Student Database: Part 1](https://github.com/Laboratoria/learn-sql-by-building-a-student-database-part-1)
-
-En el primer tutorial, aprenderás a construir y gestionar una base de datos de
-estudiantes utilizando SQL y PostgreSQL. Comenzarás configurando el entorno
-necesario, que incluye la instalación de PostgreSQL y el uso de máquinas
-virtuales. A través de comandos SQL, te guiarás en la creación de tablas con
-claves primarias y foráneas, la inserción y consulta de datos, y la
-actualización y eliminación de registros. Además, explorarás el uso de
-scripts Bash para automatizar tareas y gestionar permisos de archivos.
-
-Haz clic [aquí para iniciar el primer tutorial](https://gitpod.io/new/?autostart=true#CODEROAD_TUTORIAL_URL=https%3A%2F%2Fraw.githubusercontent.com%2FLaboratoria%2Flearn-sql-by-building-a-student-database-part-1%2Fmain%2Ftutorial.json,CODEROAD_DISABLE_RUN_ON_SAVE=true/https://github.com/Laboratoria/learn-sql-by-building-a-student-database-part-1).
-
 ### [Learn SQL by Building a Student Database: Part 2](https://github.com/Laboratoria/learn-sql-by-building-a-student-database-part-2)
 
 En el segundo tutorial, profundizarás en la administración y análisis
