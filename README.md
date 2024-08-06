@@ -13,13 +13,10 @@ Para la practica usamos [Gitpod](https://gitpod.io/).
 ```md
 # Tutorial 1
 
-## Paso 1
-
-   `echo sql Hello`
-
-## Paso 2
+## Para cconectarnos a sql
 
    `psql --username=freecodecamp --dbname=psql`
+## observamos la base de datos con:  \l
 ```
 
 ### SQL
