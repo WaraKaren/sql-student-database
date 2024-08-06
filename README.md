@@ -14,9 +14,36 @@ Para la practica usamos [Gitpod](https://gitpod.io/).
 # Tutorial 1
 
 ## Para cconectarnos a sql
-
    `psql --username=freecodecamp --dbname=psql`
-## observamos la base de datos con:  \l
+
+## observamos la base de datos con:
+      \l
+
+## para conectarse a la base de datos usamos el comando seguido del nombre de la base de datos:
+      \c students
+
+## para visualizar las tablas usamos el comando:
+      \d
+
+## para limitar caracteres
+### ejemplo limitar a un caracter 50:
+      varchar(50)
+
+## se realizo la combinacion de las tablas de major_id en students y en de majors:
+      ALTER TABLE students ADD FOREIGN KEY(major_id) REFERENCES majors(major_id);
+
+## haemos un bucle while para psar los datos uno por uno tenimos que realizarlo en nano
+#!/bin/bash
+
+#Script to insert data from courses.csv and students.csv into students>
+
+cat courses.csv | while read MAJOR COURSE
+do 
+        echo $MAJOR
+done
+
+
+
 ```
 
 ### SQL
