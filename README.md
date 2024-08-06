@@ -32,6 +32,11 @@ Para la practica usamos [Gitpod](https://gitpod.io/).
 ## se realizo la combinacion de las tablas de major_id en students y en de majors:
       ALTER TABLE students ADD FOREIGN KEY(major_id) REFERENCES majors(major_id);
 
+# parta pedir al sistema que muestre todo el contenido del archivo students.csv directamente en la terminal:
+      cat students.csv
+# para imprimir algo en la terminarl:
+      echo
+
 ## haemos un bucle while para psar los datos uno por uno tenimos que realizarlo en nano
 #!/bin/bash
 
@@ -42,7 +47,8 @@ do
         echo $MAJOR
 done
 
-
+## para hacer la division por caracter espesificado ej ,
+         IFS=','
 
 ```
 
