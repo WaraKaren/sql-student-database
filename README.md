@@ -46,7 +46,7 @@ done
 
 ```
 
-### SQL
+### Recursos
 
 - [ ] **Realizar operaciones básicas de consulta de una base de datos utilizando las cláusulas SELECT y WHERE**
 
