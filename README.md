@@ -50,6 +50,17 @@ done
 ## para hacer la division por caracter espesificado ej ,
          IFS=','
 
+## es importante estar conectados a nano con el comando:
+
+
+## ya en ta,bien es importar otorgar perimiosos al archivo para poder trbajar en nano
+
+
+## los comentariso en nano son de la siguiente manera 
+         echo "\n aqui el comentario o titulo"
+
+## la manera para excribir el comando de sql en nano es interezantes pues es de la siguiente manera
+
 ```
 
 ### Recursos
