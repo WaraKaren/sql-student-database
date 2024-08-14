@@ -54,7 +54,7 @@ done
          nano insert_data.sh
 
 
-##También es importante otorgar permisos al archivo para poder trabajar en nano:
+## También es importante otorgar permisos al archivo para poder trabajar en nano:
          chmod +x insert_data.sh
 
 
