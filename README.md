@@ -51,15 +51,22 @@ done
          IFS=','
 
 ## es importante estar conectados a nano con el comando:
+         nano insert_data.sh
 
 
-## ya en ta,bien es importar otorgar perimiosos al archivo para poder trbajar en nano
+##También es importante otorgar permisos al archivo para poder trabajar en nano:
+         chmod +x insert_data.sh
 
 
 ## los comentariso en nano son de la siguiente manera 
          echo "\n aqui el comentario o titulo"
 
-## la manera para excribir el comando de sql en nano es interezantes pues es de la siguiente manera
+
+## la manera para escribir el comando de sql en nano es interezantes pues es de la siguiente manera
+         PSQL="psql --username=freecodecamp --dbname=students"
+
+         $PSQL "SELECT * FROM students WHERE gpa > 3.0;"
+
 
 ```
 
